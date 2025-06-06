@@ -1,0 +1,9 @@
+.skill-label {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+
+  ion-progress-bar {
+    margin-top: 5px;
+  }
+}
